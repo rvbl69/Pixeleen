@@ -22,3 +22,14 @@ Description:
 	Book:Jobava London 
       	Description: Tree op basis van wit wint, ELO > 2000 (743 partijen)
       	File:Werkboeken/Jobava London.pgn
+
+Bookcase:Eindspelen
+Description: 
+
+    	Book:Checkmate patterns
+     	Description:
+      	File:Werkboeken/Checkmate patterns.pgn
+
+	Book:Endgames you must know
+     	Description:
+      	File:Werkboeken/Endgames you must know.pgn
