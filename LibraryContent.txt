@@ -8,28 +8,39 @@ Description:
     Shelf:Zwart repertoire
     Description: 
     
-	Book:Mijn eigen partrijen - zwart
-     	Description: Antwoord op wat ik online of IRL antwoord
-      	File:Werkboeken/My openings.pgn
+		Book:Mijn eigen partrijen - zwart
+     		Description: Antwoord op wat ik online of IRL antwoord
+      		File:Werkboeken/My openings.pgn
 
      Shelf:Wit repertoire
      Description: 
 	
-	Book:Pixeleen's Jobava London
-      	Description: Mijn eigen tree met video's Hanging Pawns
-      	File:Werkboeken/Pixeleen's JBL course.pgn
+		Book:Pixeleen's Jobava London
+      		Description: Mijn eigen tree met video's Hanging Pawns
+      		File:Werkboeken/Pixeleen's JBL course.pgn
 
-	Book:Jobava London 
-      	Description: Tree op basis van wit wint, ELO > 2000 (743 partijen)
-      	File:Werkboeken/Jobava London.pgn
+		Book:Jobava London 
+      		Description: Tree op basis van wit wint, ELO > 2000 (743 partijen)
+      		File:Werkboeken/Jobava London.pgn
 
 Bookcase:Eindspelen
 Description: 
 
-    	Book:Checkmate patterns
-     	Description:
-      	File:Werkboeken/Checkmate patterns.pgn
+	Shelf:Downloads
+   	Description: 
+	
+		Book:Checkmate patterns
+     		Description:
+      		File:Werkboeken/Checkmate patterns.pgn
 
-	Book:Endgames you must know
-     	Description:
-      	File:Werkboeken/Endgames you must know.pgn
+		Book:Endgames you must know
+     		Description:
+      		File:Werkboeken/Endgames you must know.pgn
+
+Bookcase:Spelers
+Description:  
+
+	Shelf:Collectie partijen
+   	Description: 
+
+
