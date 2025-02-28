@@ -9,16 +9,7 @@ Description: Games from tournaments and matches.
     Description: Games from World Championship Matches.
     
 	  Book:Men's World Championships
-      Description: All games from Men's World Championship Matches and Tournaments.
-      File:Werkboeken/Mens World Individual Championships.pgn
+      Description: All games from Men's World Championship Matches and Tournaments
+      File:Werkboeken/My openings.pgn
 
 
-Bookcase:Tournaments
-Description: Games from tournaments and matches.
-
-    Shelf:World Championship 
-    Description: Games from World Championship Matches.
-    
-	  Book:Mijn openingen
-      Description: Wat ik spell met zwart
-      File:Werkboeken/Mens world individual championships.pgn
