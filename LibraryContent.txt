@@ -2,14 +2,17 @@ Redirect:
 Message:
 
       
-Bookcase:Tournaments
-Description: Games from tournaments and matches.
+Bookcase:Openingen 
+Description: 
 
-    Shelf:World Championship 
-    Description: Games from World Championship Matches.
+    Shelf:Studie
+    Description: 
     
-	  Book:Men's World Championships
-      Description: All games from Men's World Championship Matches and Tournaments
+	  Book:Mijn eigen partrijen
+      Description: Online of IRL
       File:Werkboeken/My openings.pgn
 
 
+	Book:Jobava London
+      Description: Eigen tree
+      File:Werkboeken/Pixeleen's JBL course.pgn
