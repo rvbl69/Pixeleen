@@ -6,22 +6,6 @@ Description: Games from tournaments and matches.
    
       Book:Met zwart
       Description: Gebaseerd op partijen
-      File: Werkboeken/my openings.pgn
+      File:Werkboeken/my openings.pgn
 
-      Book:World Rapid Championship 2023 (Men)
-      Description: World Rapid Championship (Men), Samarkand, December 2023.
-      File:Tournaments/World Rapid Chess Championship Men 2023.pgn
-
-      Book:World Rapid Championship 2023 (Women)
-      Description: World Rapid Championship (Women), Samarkand, December 2023.
-      File:Tournaments/World Rapid Chess Championship Women 2023.pgn
-
-Bookcase:Strategy Morsels
-Description:Small studies of specific strategic questions.
-
-    Shelf:
-    Description: 
-
-      Book:Black King into the Line of Fire
-      Description: Black king hides in open view (semi-open b-file) on the queenside.
-      File: Strategy/Strategy Ke8-d8-c7.pgn
+     
