@@ -2,11 +2,11 @@ Redirect:
 Message:
 
       
-Bookcase:Openingen 
-Description: 
+Bookcase:Openingen en analyse
+Description:Gebruikte openingen met zwart en analysemomenten eigen partijen
 
     Shelf:Zwart repertoire
-    Description: 
+    Description: Openingen, analyse en oefeningen eigen spel
     
 		Book:Mijn eigen partrijen - zwart
      		Description: Antwoord op wat ik online of IRL antwoord
