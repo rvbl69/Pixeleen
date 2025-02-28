@@ -1,4 +1,4 @@
-Bookcase:Tournaments
+Bookcase:Tournamentss
 Description: Games from tournaments and matches.
 
     Shelf:Openingen
