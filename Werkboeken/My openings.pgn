@@ -1,4 +1,4 @@
-[ChessForgeWorkbook "Eigen partijen"]
+[ChessForgeWorkbook "Repertoire zwart en analyse eigen partijen"]
 [Annotator ""]
 [WorkbookVersion "1.0"]
 [Guid "Rf9a5474befe5436cab395c2c8195c504"]
@@ -662,12 +662,12 @@ b3 29. hxg6 fxg6 30. Nh3 Qf6 31. f4 Bb5 32. Ng5 Qxf4 0-1
 
 
 
-[ChapterTitle "Oefeningen stellingen waar ik faalde"]
+[ChapterTitle "Analyse & oefeningen stellingen waar ik faalde"]
 [Guid "Rfc347f8174604abda5aab034113d8dbd"]
 [Annotator ""]
 [ContentType "Study Tree"]
 [White "CHAPTER"]
-[Black "Oefeningen stellingen waar ik faalde"]
+[Black "Analyse & oefeningen stellingen waar ik faalde"]
 [IndexDepth "3"]
 [ShowSolutionsOnOpen "0"]
 
