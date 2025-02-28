@@ -6,6 +6,6 @@ Description: Games from tournaments and matches.
    
       Book:Met zwart
       Description: Gebaseerd op partijen
-      File:Werkboeken/my openings.pgn
+      File:Werkboeken/jobava london.pgn
 
      
