@@ -21,4 +21,4 @@ Description: Games from tournaments and matches.
     
 	  Book:Mijn openingen
       Description: Wat ik spell met zwart
-      File:Werkboeken/my openings.pgn
+      File:Werkboeken/Mens world individual championships.pgn
