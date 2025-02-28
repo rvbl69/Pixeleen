@@ -6,7 +6,7 @@ Description: Games from tournaments and matches.
    
       Book:Zwart
       Description: Gebaseerd op partijen
-      File:my openings.pgn
+      File:test.txt
 
       Book:World Rapid Championship 2023 (Men)
       Description: World Rapid Championship (Men), Samarkand, December 2023.
