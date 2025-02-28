@@ -1,8 +1,8 @@
-ActiveTab=STUDY
-ActiveChapterIndex=2
+ActiveTab=CHAPTERS
+ActiveChapterIndex=3
 
 ChapterIndex=0
-IsExpanded=1
+IsExpanded=0
 IsGameListExpanded=1
 IsExerciseListExpanded=1
 ActiveGameIndex=0
@@ -10,7 +10,7 @@ ActiveExerciseIndex=-1
 VariationIndexDepth=3
 
 ChapterIndex=1
-IsExpanded=1
+IsExpanded=0
 IsGameListExpanded=1
 IsExerciseListExpanded=1
 ActiveGameIndex=0
@@ -18,11 +18,19 @@ ActiveExerciseIndex=-1
 VariationIndexDepth=3
 
 ChapterIndex=2
-IsExpanded=1
+IsExpanded=0
 IsGameListExpanded=1
 IsExerciseListExpanded=0
 ActiveGameIndex=2
 ActiveExerciseIndex=-1
+VariationIndexDepth=3
+
+ChapterIndex=3
+IsExpanded=1
+IsGameListExpanded=1
+IsExerciseListExpanded=1
+ActiveGameIndex=0
+ActiveExerciseIndex=0
 VariationIndexDepth=3
 ChaptersViewSelectedArticleType=NONE
 
