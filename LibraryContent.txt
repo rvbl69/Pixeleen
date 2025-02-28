@@ -8,7 +8,7 @@ Description:Gebruikte openingen met zwart en analysemomenten eigen partijen
     Shelf:Zwart repertoire
     Description: Openingen, analyse en oefeningen eigen spel
     
-		Book:Mijn eigen partrijen - zwart
+		Book:Repertoire zwart en analyse eigen partijen
      		Description: Antwoord op wat ik online of IRL antwoord
       		File:Werkboeken/My openings.pgn
 
