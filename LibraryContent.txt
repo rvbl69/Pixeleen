@@ -4,8 +4,8 @@ Description: Games from tournaments and matches.
     Shelf:Openingen
     Description: Wat wordt vaak tegen mij gespeeld?
    
-      Book:Men's World Championships
-      Description: All games from Men's World Championship Matches and Tournaments.
+      Book:Zwart
+      Description: Gebaseerd op partijen
       File:my openings.pgn
 
       Book:World Rapid Championship 2023 (Men)
