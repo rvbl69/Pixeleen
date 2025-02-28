@@ -1,0 +1,558 @@
+[ChessForgeWorkbook "My black opening defense"]
+[Annotator ""]
+[WorkbookVersion "1.0"]
+[Guid "Rf9a5474befe5436cab395c2c8195c504"]
+[TrainingSide "Black"]
+[StudyBoardOrientation "Black"]
+[GameBoardOrientation "Black"]
+[ExerciseBoardOrientation "None"]
+[White "CHESS FORGE"]
+[Black "WORKBOOK"]
+[Result "*"]
+{This PGN Workbook is optimized for viewing in Chess Forge https://sourceforge.net/projects/chessforge/.   Chess Forge is a Free and Open Source Windows application.}
+
+*
+
+[ChapterTitle "Siciliaans met 2. c3 van wit"]
+[Guid "R03cae3e54e8d4f32973a47056c8ad1e1"]
+[Annotator ""]
+[ContentType "Study Tree"]
+[White "CHAPTER"]
+[Black "Siciliaans met 2. c3 van wit"]
+[IndexDepth "3"]
+[ShowSolutionsOnOpen "0"]
+
+
+1. e4 {[%eval +0,30]}  c5 {[%eval +0,39]}  2. c3 {[%eval +0,07]}  Nf6 {[%eval +0,17]}  
+3. e5 {[%eval +0,09]}  (3. d3 {[%eval -0,18]}  Nc6 {[%eval -0,09]}  4. Nf3 {[%eval -0,14]}  
+g6 {[%ref R5956bd3b13914629b48c9855d30ab3f4][%eval -0,12]}  (4... d6 5. g3) )  
+(3. Qc2 {[%eval -0,21]}  Nc6 {[%eval -0,07]}  4. Nf3 {[%eval -0,11]}  a6 {[%ref Ra96dce430371447ab56f17cd2187aa88][%eval -0,05]} 
+) 3... Nd5 {[%eval +0,10]}  4. d4 {[%eval +0,09]}  cxd4 {[%eval +0,08]}  5. Nf3 {[%eval +0,11]}  
+Nc6 {[%eval +0,17]}  6. cxd4 {[%eval +0,14]}  d6 {[%eval +0,08]}  7. Bc4 {[%eval +0,12]}  
+Nb6 {[%eval +0,10]}  8. Bb5 {[%eval +0,18]}  dxe5 {[%eval +0,13]}  9. Nxe5 {[%eval +0,16]}  
+Bd7 {[%ref R6a52bc4cb6f24e40bf0c1c5944942bea|R4b64709903434b46ae6f5280daad901c][%eval 0,00]} 
+ *
+
+[ContentType "Model Game"]
+[Event "Carlsen Inv Prelim"]
+[Round "1.3"]
+[ECO "B30"]
+[LichessId "mqManIKu"]
+[Guid "R6a52bc4cb6f24e40bf0c1c5944942bea"]
+[Date "2020.04.19"]
+[White "Vachier Lagrave, Maxime"]
+[Black "Giri, Anish"]
+[WhiteElo "2778"]
+[BlackElo "2764"]
+[Annotator ""]
+[Result "1/2-1/2"]
+
+
+ {[%eval +0,31]} 1. e4 {[%eval 0.23]}  c5 {[%eval 0.32]}  2. Nf3 {[%eval 0.0]}  
+Nc6 {[%eval 0.45]}  3. c3 {[%eval 0.12]}  Nf6 {[%eval 0.18]}  4. e5 {[%eval 0.21]}  
+Nd5 {[%eval 0.13]}  5. d4 {[%eval 0.0]}  cxd4 {[%eval 0.0]}  6. cxd4 {[%eval 0.0]}  
+d6 {[%eval 0.1]}  7. Bc4 {[%eval 0.0]}  Nb6 {[%eval 0.15]}  8. Bb5 {[%eval 
+0.22]}  dxe5 {[%eval 0.17]}  9. Nxe5 {[%eval 0.3]}  Bd7 {[%eval 0.18]}  10. Nxd7 
+{[%eval 0.24]}  Qxd7 {[%eval 0.05]}  11. Nc3 {[%eval 0.0]}  e6 {[%eval 0.28]}  
+12. O-O {[%eval 0.32]}  Rd8 {[%eval 0.12]}  13. Qf3 {[%eval 0.0]}  Be7 {[%eval 0.0]}  
+14. Be3 {[%eval 0.02]}  O-O {[%eval 0.26]}  15. Rfd1 {[%eval 0.42]}  a6 {[%eval 0.29]}  
+16. Bxc6 {[%eval 0.24]}  bxc6 {[%eval 0.33]}  17. Qe2 {[%eval 0.09]}  Qb7 {[%eval 0.18]}  
+18. Rac1 {[%eval 0.15]}  a5 {[%eval 0.14]}  19. b3 {[%eval 0.0]}  Ra8 {[%eval 0.41]}  
+20. h3 {[%eval 0.2]}  Rfc8 {[%eval 0.15]}  21. Rc2 {[%eval 0.0]}  a4 {[%eval -0.02]}  
+22. Nxa4 {[%eval -0.02]}  Nxa4 {[%eval 0.0]}  23. bxa4 {[%eval 0.0]}  Rxa4 {[%eval -0.02]}  
+24. Rdc1 {[%eval -0.07]}  Ba3 {[%eval 0.0]}  25. Rc4 {[%eval 0.0]}  Bxc1 {[%eval 0.0]}  
+26. Rxa4 {[%eval 0.0]}  Bxe3 {[%eval 0.0]}  27. Qxe3 {[%eval 0.0]}  h6 {[%eval 0.0]}  
+28. Qb3 {[%eval -0.25]}  Qxb3 {[%eval -0.19]}  29. axb3 {[%eval -0.12]}  Kf8 {[%eval -0.15]}  
+30. Kf1 {[%eval -0.09]}  Rb8 {[%eval -0.18]}  31. Ra6 {[%eval -0.28]}  Rxb3 {[%eval -0.16]}  
+32. Rxc6 {[%eval -0.42]}  Rb4 {[%eval -0.18]}  33. Rc8+ {[%eval -0.26]}  Ke7 {[%eval -0.09]}  
+34. Rc7+ {[%eval -0.18]}  Ke8 {[%eval -0.31]}  35. g3 {[%eval -0.26]}  Rxd4 {[%eval -0.29]}  
+36. h4 {[%eval -0.42]}  Rd7 {[%eval -0.51]}  37. Rc5 {[%eval -0.47]}  Ke7 {[%eval -0.24]}  
+38. Kg2 {[%eval -0.37]}  Rd5 {[%eval -0.33]}  39. Rc7+ {[%eval -0.35]}  Kf6 {[%eval -0.35]}  
+40. Ra7 {[%eval -0.39]}  Rb5 {[%eval -0.23]}  41. Rc7 {[%eval -0.39]}  Rb3 {[%eval -0.31]}  
+42. Ra7 {[%eval -0.31]}  Rc3 {[%eval -0.4]}  43. Rb7 {[%eval -0.2]}  Rd3 {[%eval -0.2]}  
+44. Ra7 {[%eval -0.33]}  Rb3 {[%eval -0.2]}  45. Rc7 {[%eval -0.34]}  Ra3 {[%eval -0.3]}  
+46. Rb7 {[%eval -0.3]}  Kg6 {[%eval -0.18]}  47. Re7 {[%eval -0.14]}  Ra6 {[%eval -0.24]}  
+48. Rb7 {[%eval -0.41]}  Kf6 {[%eval -0.26]}  49. Rc7 {[%eval -0.52]}  g5 {[%eval -0.18]}  
+50. hxg5+ {[%eval -0.16]}  hxg5 {[%eval -0.21]}  51. g4 {[%eval -0.12]}  Ra4 {[%eval -0.13]}  
+52. f3 {[%eval -0.12]}  Ra2+ {[%eval -0.13]}  53. Kg3 {[%eval -0.16]}  Rd2 {[%eval -0.22]}  
+54. Ra7 {[%eval -0.12]}  Kg6 {[%eval -0.1]}  55. Ra8 {[%eval -0.1]}  Kg7 {[%eval -0.24]}  
+56. Ra7 {[%eval -0.08]}  Kf8 {[%eval -0.17]}  57. Rb7 {[%eval -0.15]}  Ke8 {[%eval -0.06]}  
+58. Ra7 {[%eval -0.13]}  Rd7 {[%eval -0.18]}  59. Ra5 {[%eval -0.15]}  Rd5 {[%eval -0.19]}  
+60. Ra7 {[%eval -0.26]}  Kf8 {[%eval -0.19]}  61. Kf2 {[%eval -0.27]}  Kg7 {[%eval -0.21]}  
+62. Ra8 {[%eval -0.23]}  Rd4 {[%eval -0.32]}  63. Ra5 {[%eval -0.15]}  Kg6 {[%eval -0.19]}  
+64. Ra8 {[%eval -0.21]}  Rd2+ {[%eval -0.21]}  65. Kg3 {[%eval -0.18]}  Kf6 {[%eval -0.16]}  
+66. Ra7 {[%eval -0.23]}  Re2 {[%eval -0.2]}  67. Rb7 {[%eval -0.15]}  Kg6 {[%eval -0.15]}  
+68. Rb8 {[%eval -0.17]}  Kg7 {[%eval -0.28]}  69. Rb5 {[%eval -0.17]}  f6 {[%eval -0.22]}  
+70. Rb7+ {[%eval -0.25]}  Kg6 {[%eval 0.0]}  71. Re7 {[%eval -0.14]}  e5 {[%eval -0.1]}  
+72. Kh3 {[%eval -0.08]}  Ra2 {[%eval -0.03]}  73. Kg3 {[%eval 0.0]}  Ra8 {[%eval -0.05]}  
+74. Rb7 {[%eval -0.13]}  Rf8 {[%eval -0.06]}  75. Kf2 {[%eval 0.0]}  Rf7 {[%eval -0.07]}  
+76. Rb6 {[%eval 0.0]}  Rd7 {[%eval -0.04]}  77. Ke3 {[%eval -0.05]}  Kf7 {[%eval -0.03]}  
+78. Ra6 {[%eval -0.02]}  Ke7 {[%eval -0.19]}  79. Rb6 {[%eval -0.05]}  Rd6 {[%eval 0.0]}  
+80. Rb5 {[%eval -0.05]}  Ke6 {[%eval -0.03]}  81. Ra5 {[%eval -0.09]}  Rb6 {[%eval -0.14]}  
+82. Kf2 {[%eval -0.02]}  Kd6 {[%eval -0.17]}  83. Ke3 {[%eval 0.0]}  Rc6 {[%eval -0.16]}  
+84. Kf2 {[%eval -0.09]}  Kc7 {[%eval -0.09]}  85. Ke3 {[%eval -0.13]}  Kd6 {[%eval -0.12]}  
+86. Kf2 {[%eval -0.06]}  Rb6 {[%eval -0.08]}  87. Ke3 {[%eval -0.11]}  Kc6 {[%eval -0.09]}  
+88. Kf2 {[%eval -0.05]}  Rb2+ {[%eval -0.07]}  89. Ke3 {[%eval -0.09]}  Rb3+ {[%eval -0.09]}  
+90. Kf2 {[%eval -0.08]}  Rb5 {[%eval 0.0]}  91. Ra6+ {[%eval 0.0]}  Rb6 {[%eval -0.03]}  
+92. Ra5 {[%eval 0.0]}  Kd6 {[%eval 0.0]}  1/2-1/2
+
+[ContentType "Model Game"]
+[Event "Nations Cup Online Prelim"]
+[Round "5.1"]
+[ECO "B22"]
+[LichessId "aupvp3bH"]
+[Guid "R4b64709903434b46ae6f5280daad901c"]
+[Date "2020.05.07"]
+[White "Nakamura, Hikaru"]
+[Black "Ding, Liren"]
+[WhiteElo "2736"]
+[BlackElo "2791"]
+[Annotator ""]
+[Result "1/2-1/2"]
+
+
+ {[%eval +0,34]} 1. e4 {[%eval 0.23]}  c5 {[%eval 0.32]}  2. c3 {[%eval 0.0]}  
+Nf6 {[%eval 0.07]}  3. e5 {[%eval 0.0]}  Nd5 {[%eval 0.0]}  4. Nf3 {[%eval 0.0]} 
+ Nc6 {[%eval 0.13]}  5. d4 {[%eval 0.0]}  cxd4 {[%eval 0.0]}  6. cxd4 {[%eval 0.0]}  
+d6 {[%eval 0.1]}  7. Bc4 {[%eval 0.0]}  Nb6 {[%eval 0.15]}  8. Bb5 {[%eval 
+0.07]}  dxe5 {[%eval 0.2]}  9. Nxe5 {[%eval 0.25]}  Bd7 {[%eval 0.32]}  10. Nxd7 
+{[%eval 0.27]}  Qxd7 {[%eval 0.29]}  11. Nc3 {[%eval 0.19]}  e6 {[%eval 0.18]}  
+12. O-O {[%eval 0.23]}  Be7 {[%eval 0.35]}  13. Qg4 {[%eval 0.35]}  O-O {[%eval 0.48]}  
+14. Bh6 {[%eval -1.27]}  Qxd4 {[%eval -1.48]}  15. Qg3 {[%eval -1.17]}  Bd6 {[%eval -1.3]}  
+16. Bxg7 {[%eval -1.21]}  Bxg3 {[%eval -1.34]}  17. Bxd4 {[%eval -1.35]}  Bxh2+ {[%eval -1.12]}  
+18. Kxh2 {[%eval -1.1]}  Nxd4 {[%eval -1.33]}  19. Bd3 {[%eval -1.11]}  f5 {[%eval -1.37]}  
+20. Rae1 {[%eval -1.24]}  Rf6 {[%eval -0.79]}  21. Re3 {[%eval -1.0]}  Rh6+ {[%eval -0.77]}  
+22. Kg1 {[%eval -0.76]}  Kf7 {[%eval -0.74]}  23. Ne2 {[%eval -1.35]}  Rd8 {[%eval -0.96]}  
+24. Rc1 {[%eval -1.38]}  Nxe2+ {[%eval -0.44]}  25. Bxe2 {[%eval -0.52]}  Rd2 {[%eval -0.3]}  
+26. Bf3 {[%eval -0.49]}  Rxb2 {[%eval -0.37]}  27. Ra3 {[%eval -0.33]}  a6 {[%eval -0.35]}  
+28. Bxb7 {[%eval -0.37]}  Nc4 {[%eval -0.27]}  29. Ra4 {[%eval -0.31]}  Nd2 {[%eval 0.0]}  
+30. Ba8 {[%eval 0.0]}  Ne4 {[%eval 0.0]}  31. Bxe4 {[%eval 0.0]}  fxe4 {[%eval 0.0]}  
+32. Rxa6 {[%eval 0.0]}  Rf6 {[%eval 0.0]}  33. Rf1 {[%eval 0.0]}  h5 {[%eval 0.0]}  
+34. Ra3 {[%eval 0.0]}  Rf5 {[%eval 0.05]}  35. Re3 {[%eval 0.06]}  Rxa2 {[%eval 0.03]}  
+36. Rxe4 {[%eval 0.05]}  1/2-1/2
+
+[ContentType "Model Game"]
+[Event "Mediterranean-ch 7th"]
+[Round "9"]
+[ECO "B29"]
+[LichessId "4vg1LHLb"]
+[Guid "R5956bd3b13914629b48c9855d30ab3f4"]
+[Date "2009.09.17"]
+[White "Amin, Bassem"]
+[Black "Adly, Ahmed"]
+[WhiteElo "2559"]
+[BlackElo "2554"]
+[Annotator ""]
+[Result "0-1"]
+
+
+ {[%eval +0,34]} 1. e4 {[%eval 0.24]}  c5 {[%eval 0.2]}  2. Nf3 {[%eval 0.21]}  
+Nf6 {[%eval 0.46]}  3. d3 {[%eval -0.1]}  Nc6 {[%eval 0.0]}  4. c3 {[%eval -0.08]}  
+g6 {[%eval -0.08]}  5. g3 {[%eval -0.12]}  Bg7 {[%eval 0.0]}  6. Bg2 {[%eval -0.05]}  
+O-O {[%eval 0.27]}  7. O-O {[%eval 0.0]}  d5 {[%eval 0.23]}  8. e5 {[%eval -0.51]}  
+Nd7 {[%eval 0.16]}  9. d4 {[%eval 0.34]}  cxd4 {[%eval 0.42]}  10. cxd4 {[%eval 0.42]}  
+Nb6 {[%eval 0.48]}  11. h3 {[%eval 0.53]}  Bf5 {[%eval 0.53]}  12. Nc3 {[%eval 0.37]}  
+Qd7 {[%eval 0.0]}  13. Kh2 {[%eval 0.17]}  Be4 {[%eval 0.41]}  14. Be3 {[%eval -0.08]}  
+Bxf3 {[%eval 0.52]}  15. Qxf3 {[%eval 0.33]}  e6 {[%eval 0.48]}  16. h4 {[%eval 0.0]}  
+Nc4 {[%eval 0.0]}  17. Qg4 {[%eval 0.07]}  Ne7 {[%eval -0.16]}  18. Bg5 {[%eval -0.24]}  
+Nf5 {[%eval 0.15]}  19. b3 {[%eval 0.16]}  Na3 {[%eval 0.0]}  20. Bh3 {[%eval -0.95]}  
+h6 {[%eval -0.61]}  21. Bf6 {[%eval -0.78]}  Bxf6 {[%eval -0.9]}  22. exf6 {[%eval -0.77]}  
+Qd8 {[%eval -0.79]}  23. Qf4 {[%eval -0.64]}  Qxf6 {[%eval -0.75]}  24. Bxf5 {[%eval -0.66]}  
+Qxf5 {[%eval -0.64]}  25. Qxh6 {[%eval -0.84]}  Rfc8 {[%eval -0.61]}  26. Rac1 {[%eval -0.58]}  
+Rc6 {[%eval -0.33]}  27. Qd2 {[%eval -0.32]}  Rac8 {[%eval -0.6]}  28. Qb2 {[%eval -0.56]}  
+Nb1 {[%eval 0.0]}  29. Nxb1 {[%eval 0.0]}  Rc2 {[%eval 0.0]}  30. Qa3 {[%eval -2.88]}  
+Rxf2+ {[%eval -2.66]}  31. Rxf2 {[%eval -2.47]}  Qxf2+ {[%eval -1.79]}  32. Kh3 {[%eval -2.53]}  
+Rc2 {[%eval -2.82]}  33. Rxc2 {[%eval -2.61]}  Qf5+ {[%eval -2.64]}  34. Kh2 {[%eval -2.65]}  
+Qxc2+ {[%eval -2.61]}  35. Kh3 {[%eval -2.6]}  a6 {[%eval -2.25]}  36. Qb4 {[%eval -2.39]}  
+Qf5+ {[%eval -1.68]}  37. Kh2 {[%eval -2.25]}  Qxb1 {[%eval -2.23]}  38. a4 {[%eval -3.1]}  
+Qc2+ {[%eval -3.14]}  39. Kh3 {[%eval -3.07]}  Qf5+ {[%eval -2.81]}  40. Kh2 {[%eval -2.93]}  
+b5 {[%eval -2.28]}  41. a5 {[%eval -3.47]}  e5 {[%eval -2.58]}  42. Qd2 {[%eval -5.2]}  
+exd4 {[%eval -5.16]}  43. Qxd4 {[%eval -4.96]}  Qc2+ {[%eval -4.72]}  44. Kh3 {[%eval -4.38]}  
+Qe4 {[%eval -4.05]}  45. Qb6 {[%eval -5.32]}  Kg7 {[%eval -5.03]}  0-1
+
+[ContentType "Model Game"]
+[Event "EU/SenC1 pr 17"]
+[Round "?"]
+[ECO "B22"]
+[LichessId "V5wkbmaC"]
+[Guid "Ra96dce430371447ab56f17cd2187aa88"]
+[Date "2021.06.25"]
+[White "Lemke, Burghard"]
+[Black "Kurylo, Risard"]
+[WhiteElo "2312"]
+[BlackElo "2418"]
+[Annotator ""]
+[Result "1/2-1/2"]
+
+
+ {[%eval +0,37]} 1. e4 {[%eval 0.15]}  c5 {[%eval 0.25]}  2. c3 {[%eval 0.07]}  
+Nf6 {[%eval 0.04]}  3. Qc2 {[%eval -0.23]}  Nc6 {[%eval -0.09]}  4. Nf3 {[%eval -0.03]}  
+a6 {[%eval -0.15]}  5. d4 {[%eval -0.01]}  cxd4 {[%eval 0.0]}  6. cxd4 {[%eval -0.17]}  
+d5 {[%eval -0.12]}  7. e5 {[%eval -0.28]}  Ne4 {[%eval -0.15]}  8. Bd3 {[%eval -0.18]}  
+Qa5+ {[%eval -0.16]}  9. Nbd2 {[%eval -0.27]}  Nb4 {[%eval -0.25]}  10. Qb3 {[%eval -0.19]}  
+Nxd3+ {[%eval -0.18]}  11. Qxd3 {[%eval -0.16]}  Bf5 {[%eval -0.28]}  12. Qe3 {[%eval -0.37]}  
+h6 {[%eval -0.24]}  13. O-O {[%eval -0.35]}  Qb6 {[%eval -0.35]}  14. Nxe4 {[%eval -0.06]}  
+Bxe4 {[%eval -0.09]}  15. Nd2 {[%eval -0.12]}  Bf5 {[%eval -0.11]}  16. Nb3 {[%eval -0.14]}  
+e6 {[%eval -0.1]}  17. Bd2 {[%eval -0.14]}  a5 {[%eval -0.16]}  18. Qc3 {[%eval -0.16]}  
+Bb4 {[%eval 0.0]}  19. Qg3 {[%eval -0.34]}  Bxd2 {[%eval -0.37]}  20. Qxg7 {[%eval -0.2]}  
+O-O-O {[%eval -0.24]}  21. Nxd2 {[%eval -0.33]}  Qxb2 {[%eval -0.48]}  22. Rac1+ 
+{[%eval -0.44]}  Kb8 {[%eval -0.34]}  23. Nb3 {[%eval -0.32]}  Bg6 {[%eval -0.27]}  
+24. Nxa5 {[%eval -0.46]}  Qxd4 {[%eval -0.46]}  25. Qf6 {[%eval -0.44]}  Qb4 {[%eval -0.5]}  
+26. Nb3 {[%eval -0.38]}  Rc8 {[%eval -0.33]}  27. h3 {[%eval -0.46]}  Qa3 {[%eval 0.01]}  
+28. Kh2 {[%eval 0.16]}  Rxc1 {[%eval 0.16]}  29. Rxc1 {[%eval 0.3]}  Rc8 {[%eval 0.23]}  
+30. Rxc8+ {[%eval 0.26]}  Kxc8 {[%eval 0.23]}  31. Nd4 {[%eval 0.33]}  Qd3 {[%eval 0.25]}  
+32. Qf4 {[%eval 0.27]}  h5 {[%eval 0.32]}  33. Qe3 {[%eval 0.15]}  Qc4 {[%eval 0.19]}  
+34. a3 {[%eval 0.0]}  h4 {[%eval 0.0]}  35. Nf3 {[%eval 0.0]}  Kc7 {[%eval 0.0]} 
+ 36. Kg1 {[%eval 0.03]}  Kd7 {[%eval 0.0]}  37. Kh2 {[%eval 0.0]}  Kc6 {[%eval 0.06]}  
+38. Nd4+ {[%eval 0.0]}  Kd7 {[%eval 0.04]}  39. f3 {[%eval 0.0]}  Qc5 {[%eval 0.0]}  
+40. Kg1 {[%eval 0.0]}  Qb6 {[%eval 0.0]}  41. Qc3 {[%eval 0.0]}  Qc7 {[%eval 0.0]}  
+42. Qe3 {[%eval 0.0]}  Qc5 {[%eval 0.0]}  43. Kh2 {[%eval 0.0]}  Ke8 {[%eval 0.0]}  
+44. Qd2 {[%eval 0.0]}  Qxa3 {[%eval 0.0]}  45. Nb5 {[%eval 0.0]}  Qe7 {[%eval 0.0]}  
+46. Nd6+ {[%eval 0.0]}  Kf8 {[%eval 0.0]}  47. f4 {[%eval 0.0]}  Kg7 {[%eval 0.0]}  
+48. Qf2 {[%eval 0.0]}  Bd3 {[%eval 0.0]}  49. Qb2 {[%eval 0.0]}  Be4 {[%eval 0.0]}  
+50. Nxb7 {[%eval 0.0]}  Qc7 {[%eval 0.0]}  51. Nd6 {[%eval 0.0]}  Qc2 {[%eval 0.0]}  
+52. Qxc2 {[%eval 0.0]}  Bxc2 {[%eval 0.0]}  53. Nb5 {[%eval 0.0]}  Kh6 {[%eval 0.0]} 
+ 1/2-1/2
+
+
+
+[ChapterTitle "Nimzo Indisch"]
+[Guid "R84ba8b9602d949db95db571ccff348b4"]
+[Annotator ""]
+[ContentType "Study Tree"]
+[White "CHAPTER"]
+[Black "Nimzo Indisch"]
+[IndexDepth "3"]
+[ShowSolutionsOnOpen "0"]
+
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 (4. e3 {[%eval +0,14]}  b6 {[%eval +0,33]}  
+5. Bd3 {[%eval +0,20]}  Bb7 {[%eval +0,20]}  6. Nf3 {[%eval +0,17]}  Ne4 {[%eval +0,36]}  
+7. Bxe4 {[%eval +0,27]}  (7. Qc2 {[%eval +0,22]}  Bxc3+ {[%eval +0,28]}  8. bxc3 
+{[%eval +0,25]}  f5 {[%ref Rf10b4b9e60284947bfefdaa75b89cc96][%eval +0,23]} ) 
+7... Bxe4 {[%ref R3c234dcb92cc4d6a84251f58388daa98][%eval +0,25]} )  (4. a3 {[%eval -0,09]}  
+Bxc3+ {[%eval -0,06]}  5. bxc3 {[%eval -0,10]}  Ne4 {[%eval +0,22]}  6. f3 {[%eval -2,19]}  
+(6. Qc2 {[%eval +0,08]}  f5 {[%eval +0,18]}  7. Nf3 {[%eval -0,39]}  b6 {[%eval -0,13]}  
+8. e3 {[%eval -0,36]}  Bb7 {[%eval -0,25]}  9. Bd3 {[%eval -0,33]}  O-O {[%ref Rbf58c73886104a0d80d9962d914b9072][%eval -0,16]} 
+) 6... Qh4+ 7. g3 Nxg3 8. hxg3 Qxh1)  (4. Qc2 {[%eval +0,14]}  Bxc3+ {[%eval +0,53]}  
+5. Qxc3 {[%eval +0,35]}  Ne4 {[%eval +0,58]}  6. Qc2 {[%eval +0,58]}  f5 {[%eval +0,59]}  
+7. Nf3 {[%eval +0,50]}  b6 {[%ref R8bf2a96ec4f743768ef68ea68c961ca9][%eval +0,85]}  
+8. e3 {[%eval +0,35]}  Bb7 9. Bd3 O-O)  (4. Bg5 {[%eval -0,12]}  c5 {[%eval -0,08]}  
+5. e3 {[%eval -0,88]}  (5. d5 {[%eval -0,31]}  d6 {[%eval -0,30]}  6. Nf3 {[%eval -0,47]}  
+exd5 {[%eval -0,40]}  7. cxd5 {[%eval -0,50]}  Nbd7 {[%eval -0,42]}  8. e3 {[%eval -0,53]}  
+O-O {[%ref Rc55484754c444018822651556c326c55][%eval -0,18]}  (8... Qa5 {[%eval -0,49]} 
+) ) 5... Qa5 {[%ref R5ac6bb647c0d4535ab0e5c8381fbf3dc][%eval -0,99]} ) 4... Ne4 
+5. Qc2 f5 6. e3 b6 7. Bd3 Bb7 {[%ref Rd54b9d3a106f43e4a9bb9e2449cfab85|R1884cb564b824affad6247bccf23005c]}  
+8. Bxe4 (8. O-O Bxc3 9. bxc3 O-O 10. Nd2 (10. Ba3 {[%eval -0,08]}  Rf6 {[%eval +0,28]}  
+11. Nd2 {[%eval -0,12]}  Rh6 12. g3 (12. Nxe4 Qh4 13. h3 fxe4 14. Be2 Rg6 15. 
+Kh1 d6 16. Rab1 Nd7) 12... Qh4 13. gxh4 (13. Nf3 Ng5 14. Nxh4 (14. gxh4 Nxf3+ 
+15. Kg2 Ne1+ 16. Kh3 Bg2+ 17. Kg3 Rg6+ 18. Kf4 Rg4+ 19. Ke5 Nc6#) 14... Nh3#) 
+13... Rg6+ 14. Kh1 Nxf2#) 10... Qh4 {[%ref Ra7d41778c0c84422836040c24c867830][%eval +0,26]}  
+11. Nxe4 {[%eval -0,77]}  (11. g3 {[%eval -0,55]}  Ng5 {[%eval -0,35]}  (11... 
+Nxd2 {[%eval -0,69]}  12. gxh4 (12. Bxd2 Qg4 13. Rfe1 Bf3 14. Bf1 Rf6 15. h3 Rh6 
+16. hxg4 Rh1#) 12... Nf3+ 13. Kg2 Nxd4+ 14. f3 Nxc2 15. Bxc2) 12. gxh4 {[%eval -#1]}  
+Nh3#) 11... fxe4 {[%eval -0,82]}  12. Be2 {[%eval -0,81]}  (12. g3 exd3 13. gxh4 
+dxc2) ) 8... Bxe4 *
+
+[ContentType "Model Game"]
+[Event "Candidates qf2"]
+[Round "1"]
+[ECO "E43"]
+[LichessId "YU97Qojo"]
+[Guid "Rd54b9d3a106f43e4a9bb9e2449cfab85"]
+[Date "1986.??.??"]
+[White "Jussupow, Artur"]
+[Black "Timman, Jan H"]
+[WhiteElo "2645"]
+[BlackElo "2645"]
+[Annotator ""]
+[Result "0-1"]
+
+
+1. d4 {[%eval 0.08]}  Nf6 {[%eval 0.13]}  2. c4 {[%eval 0.18]}  e6 {[%eval 
+0.23]}  3. Nf3 {[%eval 0.09]}  b6 {[%eval 0.28]}  4. Nc3 {[%eval -0.04]}  Bb4 {[%eval 0.08]}  
+5. e3 {[%eval 0.0]}  Ne4 {[%eval 0.09]}  6. Qc2 {[%eval 0.1]}  Bb7 {[%eval 
+0.19]}  7. Bd3 {[%eval 0.28]}  f5 {[%eval 0.0]}  8. O-O {[%eval -0.15]}  Bxc3 {[%eval 0.58]}  
+9. bxc3 {[%eval 0.28]}  O-O {[%eval 0.6]}  10. Ne1 {[%eval 0.0]}  c5 {[%eval 0.14]}  
+11. f3 {[%eval 0.02]}  Nd6 {[%eval 0.33]}  12. Ba3 {[%eval 0.15]}  Na6 {[%eval 0.27]}  
+13. e4 {[%eval 0.08]}  Qe7 {[%eval 0.6]}  14. e5 {[%eval 0.47]}  Nf7 {[%eval 0.63]}  
+15. f4 {[%eval 0.38]}  g5 {[%eval 1.03]}  16. d5 {[%eval 0.79]}  gxf4 {[%eval 0.79]}  
+17. Nf3 {[%eval 0.43]}  Nh8 {[%eval 0.56]}  18. Rae1 {[%eval -0.12]}  Ng6 {[%eval 0.07]}  
+19. Bc1 {[%eval -0.37]}  Kh8 {[%eval 0.48]}  20. Qf2 {[%eval 0.36]}  Qg7 {[%eval 1.19]}  
+21. h4 {[%eval 0.83]}  Qh6 {[%eval 1.16]}  22. Ng5 {[%eval 0.59]}  Qxh4 {[%eval 1.72]}  
+23. Qxh4 {[%eval 1.44]}  Nxh4 {[%eval 1.76]}  24. Rxf4 {[%eval 1.6]}  Ng6 {[%eval 1.78]}  
+25. Rf3 {[%eval 1.64]}  Rae8 {[%eval 1.72]}  26. Rh3 {[%eval 1.4]}  Re7 {[%eval 1.7]}  
+27. Rh6 {[%eval 0.9]}  Rg8 {[%eval 3.03]}  28. Kf2 {[%eval 1.2]}  Nf8 {[%eval 3.25]}  
+29. d6 {[%eval 1.63]}  Reg7 {[%eval 1.75]}  30. Rf6 {[%eval 1.63]}  Nb8 {[%eval 2.56]}  
+31. Rh1 {[%eval -1.27]}  Nc6 {[%eval -1.2]}  32. Bf4 {[%eval -2.59]}  Rxg5 {[%eval -2.73]}  
+33. Bxg5 {[%eval -2.62]}  Rxg5 {[%eval -1.74]}  34. Rxf8+ {[%eval -1.85]}  Kg7 {[%eval -1.57]}  
+35. Re8 {[%eval -1.84]}  Nxe5 {[%eval -1.8]}  36. Bf1 {[%eval -1.79]}  Ng4+ {[%eval -1.27]}  
+37. Ke1 {[%eval -1.66]}  Nf6 {[%eval -1.56]}  38. Re7+ {[%eval -1.7]}  Kg6 {[%eval -1.56]}  
+39. Rh3 {[%eval -3.71]}  Bxg2 {[%eval -3.58]}  40. Re3 {[%eval -3.57]}  Bc6 {[%eval -3.3]} 
+ 0-1
+
+[ContentType "Model Game"]
+[Event "Wch Blitz 5th"]
+[Round "41"]
+[ECO "E43"]
+[LichessId "s7S2QU6b"]
+[Guid "R1884cb564b824affad6247bccf23005c"]
+[Date "2009.11.18"]
+[White "Karpov, Anatoly"]
+[Black "Ivanchuk, Vassily"]
+[WhiteElo "2619"]
+[BlackElo "2739"]
+[Annotator ""]
+[Result "1-0"]
+
+
+1. d4 {[%eval 0.0]}  Nf6 {[%eval 0.28]}  2. c4 {[%eval 0.16]}  e6 {[%eval 0.23]} 
+ 3. Nc3 {[%eval 0.05]}  Bb4 {[%eval 0.25]}  4. Nf3 {[%eval 0.0]}  b6 {[%eval 0.12]}  
+5. e3 {[%eval 0.21]}  Ne4 {[%eval 0.44]}  6. Qc2 {[%eval 0.33]}  Bb7 {[%eval 0.38]}  
+7. Bd3 {[%eval 0.0]}  f5 {[%eval 0.44]}  8. O-O {[%eval 0.32]}  Bxc3 {[%eval 0.38]}  
+9. bxc3 {[%eval 0.27]}  O-O {[%eval 0.31]}  10. Nd2 {[%eval 0.44]}  Qh4 {[%eval 0.26]}  
+11. f3 {[%eval 0.39]}  Ng5 {[%eval 1.56]}  12. e4 {[%eval -0.38]}  fxe4 {[%eval -0.57]}  
+13. Nxe4 {[%eval -0.31]}  Nxe4 {[%eval -0.41]}  14. Bxe4 {[%eval -0.49]}  Bxe4 {[%eval -0.45]}  
+15. Qxe4 {[%eval -0.33]}  Qxe4 {[%eval -0.49]}  16. fxe4 {[%eval -0.35]}  Nc6 {[%eval -0.3]}  
+17. Bf4 {[%eval -0.45]}  d6 {[%eval -0.5]}  18. c5 {[%eval -0.48]}  e5 {[%eval -0.48]}  
+19. Bg3 {[%eval -0.37]}  exd4 {[%eval -0.24]}  20. cxd6 {[%eval -0.4]}  cxd6 {[%eval -0.51]}  
+21. cxd4 {[%eval -0.51]}  Nxd4 {[%eval -0.22]}  22. Bxd6 {[%eval -0.44]}  Rfe8 {[%eval -0.11]}  
+23. e5 {[%eval -0.14]}  Rac8 {[%eval -0.1]}  24. a4 {[%eval -0.14]}  Rc4 {[%eval -0.14]}  
+25. Ra2 {[%eval -0.02]}  Nc6 {[%eval 1.61]}  26. Raf2 {[%eval 1.6]}  h6 {[%eval 2.01]}  
+27. Rf8+ {[%eval 2.01]}  Rxf8 {[%eval 2.01]}  28. Rxf8+ {[%eval 1.88]}  Kh7 {[%eval 2.01]}  
+29. e6 {[%eval 2.06]}  Rxa4 {[%eval 1.96]}  30. e7 {[%eval 1.99]}  Nxe7 {[%eval 2.04]}  
+31. Bxe7 {[%eval 2.05]}  Re4 {[%eval 2.16]}  32. Bd6 {[%eval 2.07]}  Rd4 {[%eval 2.27]}  
+33. Be5 {[%eval 2.3]}  Rd5 {[%eval 2.39]}  34. Bc3 {[%eval 2.53]}  Rc5 {[%eval 2.41]}  
+35. Bd4 {[%eval 2.44]}  Rd5 {[%eval 2.31]}  36. Be3 {[%eval 2.4]}  Re5 {[%eval 2.49]}  
+37. Kf2 {[%eval 2.52]}  Re7 {[%eval 2.39]}  38. Rc8 {[%eval 2.43]}  Rf7+ {[%eval 2.38]}  
+39. Ke2 {[%eval 2.39]}  Re7 {[%eval 2.45]}  40. Rc6 {[%eval 2.41]}  Kg8 {[%eval 2.77]}  
+41. Kf3 {[%eval 2.71]}  Kh7 {[%eval 2.84]}  42. h4 {[%eval 2.65]}  Rf7+ {[%eval 2.37]}  
+43. Ke2 {[%eval 2.65]}  Re7 {[%eval 2.84]}  44. g4 {[%eval 3.09]}  Re4 {[%eval 3.63]}  
+45. Kf3 {[%eval 4.36]}  Ra4 {[%eval 4.67]}  46. h5 {[%eval 4.4]}  Kg8 {[%eval 4.58]}  
+47. Rc7 {[%eval 4.93]}  Kf8 {[%eval 5.16]}  48. Rd7 {[%eval 5.07]}  Kg8 {[%eval 5.77]}  
+49. Bd4 {[%eval 5.67]}  1-0
+
+[ContentType "Model Game"]
+[Event "9th Leiden Open A 2015"]
+[Round "8.1"]
+[ECO "E43"]
+[LichessId "HF7hIXbF"]
+[Guid "Ra7d41778c0c84422836040c24c867830"]
+[Date "2015.07.25"]
+[White "Chatalbashev, B."]
+[Black "Howell, D."]
+[WhiteElo "2516"]
+[BlackElo "2698"]
+[Annotator ""]
+[Result "0-1"]
+
+
+1. d4 {[%eval 0.25]}  Nf6 {[%eval 0.22]}  2. c4 {[%eval 0.18]}  e6 {[%eval 
+0.23]}  3. Nc3 {[%eval 0.09]}  Bb4 {[%eval 0.29]}  4. Nf3 {[%eval 0.0]}  b6 {[%eval 0.16]}  
+5. e3 {[%eval 0.0]}  Ne4 {[%eval 0.09]}  6. Qc2 {[%eval 0.0]}  Bb7 {[%eval 
+0.19]}  7. Bd3 {[%eval 0.0]}  f5 {[%eval 0.0]}  8. O-O {[%eval 0.15]}  Bxc3 {[%eval 0.25]}  
+9. bxc3 {[%eval 0.41]}  O-O {[%eval 0.22]}  10. Nd2 {[%eval 0.34]}  Qh4 {[%eval 0.3]}  
+11. f3 {[%eval +0,28]}  Nxd2 {[%eval +0,29]}  12. Bxd2 {[%eval +0,23]}  d6 {[%eval 0.23]}  
+13. Rae1 {[%eval -0.1]}  Nd7 {[%eval -0.03]}  14. e4 {[%eval -0.16]}  f4 {[%eval -0.34]}  
+15. Qa4 {[%eval -0.43]}  Qe7 {[%eval 0.0]}  16. g3 {[%eval 0.0]}  g5 {[%eval 0.0]}  
+17. h4 {[%eval 0.0]}  gxh4 {[%eval 0.0]}  18. gxf4 {[%eval -0.37]}  Kh8 {[%eval 0.0]}  
+19. Kf2 {[%eval -0.82]}  h3 {[%eval 0.0]}  20. Ke2 {[%eval -0.1]}  Rg8 {[%eval 0.0]}  
+21. Rh1 {[%eval 0.0]}  Rg3 {[%eval 0.0]}  22. Be3 {[%eval 0.0]}  Nf6 {[%eval -0.09]}  
+23. Bf2 {[%eval -0.66]}  Nh5 {[%eval -0.28]}  24. Bxg3 {[%eval -0.61]}  Nxg3+ {[%eval -0.53]}  
+25. Ke3 {[%eval -1.95]}  Qh4 {[%eval -2.33]}  26. Qb5 {[%eval -6.12]}  e5 {[%eval -5.33]}  
+27. Qd7 {[%eval -9.97]}  Qxf4+ {[%eval -9.95]}  28. Kf2 {[%eval -9.8]}  Qd2+ {[%eval -9.48]}  
+29. Be2 {[%eval -16.1]}  Nxe4+ {[%eval -15.03]}  30. fxe4 {[%eval -14.25]}  Rf8+ 
+{[%eval -13.96]}  31. Kg3 {[%eval -11.51]}  Bc8 {[%eval -10.61]}  0-1
+
+[ContentType "Model Game"]
+[Event "Baku Open 2016"]
+[Round "3.9"]
+[ECO "E43"]
+[LichessId "fv7NPryZ"]
+[Guid "R3c234dcb92cc4d6a84251f58388daa98"]
+[Date "2016.09.20"]
+[White "Lupulescu, C."]
+[Black "Kazimova, N."]
+[WhiteElo "2618"]
+[BlackElo "2302"]
+[Annotator ""]
+[Result "1-0"]
+
+
+ {[%eval +0,31]} 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Nc3 Bb4 6. Bd3 Ne4 7. 
+Bxe4 Bxe4 8. Bd2 Bb7 9. O-O O-O 10. d5 d6 11. a3 Bxc3 12. Bxc3 e5 13. Nd2 c6 14. 
+dxc6 Bxc6 15. e4 Nd7 16. b4 f5 17. Qe2 fxe4 18. Nxe4 Nf6 19. Ng3 Qd7 20. Rac1 
+Rae8 21. Ba1 Qb7 22. f3 Qb8 23. Qd2 Kh8 24. Rfd1 Re6 25. Qe3 Qe8 26. Rd2 Nh5 27. 
+Ne4 Qg6 28. Rcd1 Nf4 29. Kh1 Ba4 30. Rb1 Bc6 31. b5 Bb7 32. Bc3 d5 33. cxd5 Nxd5 
+34. Qe2 Nf4 35. Qc4 1-0
+
+[ContentType "Model Game"]
+[Event "10th Tal Mem 2016"]
+[Round "3.4"]
+[ECO "E43"]
+[LichessId "kZUfNF3n"]
+[Guid "Rf10b4b9e60284947bfefdaa75b89cc96"]
+[Date "2016.09.29"]
+[White "Li Chao2"]
+[Black "Anand, V."]
+[WhiteElo "2746"]
+[BlackElo "2776"]
+[Annotator ""]
+[Result "1/2-1/2"]
+
+
+ {[%eval +0,30]} 1. d4 {[%eval 0.0]}  Nf6 {[%eval 0.27]}  2. c4 {[%eval 0.11]}  
+e6 {[%eval 0.39]}  3. Nc3 {[%eval 0.0]}  Bb4 {[%eval 0.25]}  4. Nf3 {[%eval 
+0.1]}  b6 {[%eval 0.12]}  5. e3 {[%eval 0.24]}  Ne4 {[%eval 0.44]}  6. Qc2 {[%eval 0.3]}  
+Bb7 {[%eval 0.54]}  7. Bd3 {[%eval 0.0]}  Bxc3+ {[%eval 0.28]}  8. bxc3 {[%eval 0.31]}  
+f5 {[%eval 0.25]}  9. O-O {[%eval 0.34]}  O-O {[%eval 0.45]}  10. Nd2 {[%eval 0.41]}  
+Nxd2 {[%eval 0.57]}  11. Bxd2 {[%eval 0.48]}  Qh4 {[%eval 0.45]}  12. f3 {[%eval 0.53]}  
+d6 {[%eval 0.39]}  13. a4 {[%eval 0.28]}  Nc6 {[%eval 0.36]}  14. g3 {[%eval -0.65]}  
+Qh5 {[%eval -0.6]}  15. e4 {[%eval -0.42]}  Na5 {[%eval -0.23]}  16. Rae1 {[%eval -0.96]}  
+fxe4 {[%eval -1.1]}  17. fxe4 {[%eval -1.09]}  Ba6 {[%eval -1.21]}  18. Bf4 {[%eval -1.18]}  
+Bxc4 {[%eval -1.03]}  19. Bxc4 {[%eval -1.22]}  Nxc4 {[%eval -0.97]}  20. Qb3 {[%eval -1.03]}  
+d5 {[%eval -0.95]}  21. Qb5 {[%eval -1.05]}  Rac8 {[%eval -0.73]}  22. Qc6 {[%eval -0.47]}  
+Rfe8 {[%eval -0.47]}  23. Rf2 {[%eval -0.81]}  Na5 {[%eval -0.12]}  24. Qd7 {[%eval -0.15]}  
+Qf7 {[%eval 0.0]}  25. Qxf7+ {[%eval -0.03]}  Kxf7 {[%eval 0.0]}  26. Bxc7+ {[%eval 0.0]}  
+Kg8 {[%eval 0.01]}  27. Bf4 {[%eval 0.0]}  Nc4 {[%eval 0.31]}  28. Rfe2 {[%eval 0.14]}  
+Kf7 {[%eval 0.24]}  29. Rf2 {[%eval 0.22]}  Kg8 {[%eval 0.31]}  30. Rfe2 {[%eval 0.16]}  
+Kf7 {[%eval 0.17]}  31. Rf2 {[%eval 0.0]}  1/2-1/2
+
+[ContentType "Model Game"]
+[Event "Las Vegas National op"]
+[Round "1"]
+[ECO "E12"]
+[LichessId "jVXOey8B"]
+[Guid "Rbf58c73886104a0d80d9962d914b9072"]
+[Date "2010.06.11"]
+[White "Moussa, Alaa Eddine"]
+[Black "Panchanathan, Magesh Chandran"]
+[WhiteElo "2205"]
+[BlackElo "2549"]
+[Annotator ""]
+[Result "0-1"]
+
+
+ {[%eval +0,36]} 1. d4 {[%eval 0.0]}  Nf6 {[%eval 0.29]}  2. Nf3 {[%eval 0.13]}  
+e6 {[%eval 0.0]}  3. c4 {[%eval 0.0]}  b6 {[%eval 0.3]}  4. Nc3 {[%eval 0.0]}  
+Bb4 {[%eval 0.3]}  5. a3 {[%eval -0.36]}  Bxc3+ {[%eval -0.53]}  6. bxc3 {[%eval -0.23]}  
+Bb7 {[%eval -0.13]}  7. e3 {[%eval -0.13]}  Ne4 {[%eval -0.07]}  8. Bd3 {[%eval -0.19]}  
+f5 {[%eval -0.19]}  9. Qc2 {[%eval -0.43]}  O-O {[%eval -0.41]}  10. O-O {[%eval -0.32]}  
+d6 {[%eval -0.16]}  11. Bb2 {[%eval -0.64]}  Nd7 {[%eval -0.82]}  12. Rad1 {[%eval -1.56]}  
+Rf6 {[%eval -1.65]}  13. Ne1 {[%eval -2.83]}  Rh6 {[%eval -2.69]}  14. f3 {[%eval -3.33]}  
+Qh4 {[%eval -3.23]}  15. h3 {[%eval -3.88]}  Qg5 {[%eval -0.94]}  16. Bc1 {[%eval -1.23]}  
+Ng3 {[%eval -1.0]}  17. Rf2 {[%eval -1.19]}  Nf6 {[%eval 0.0]}  18. Qd2 {[%eval -2.63]}  
+Rh4 {[%eval -2.0]}  19. Qa2 {[%eval -1.77]}  Nfh5 {[%eval -1.8]}  20. Kh2 {[%eval -1.04]}  
+Rf8 {[%eval -0.75]}  21. e4 {[%eval -0.96]}  f4 {[%eval -1.32]}  22. c5 {[%eval -1.18]}  
+d5 {[%eval -1.52]}  23. exd5 {[%eval -2.75]}  exd5 {[%eval -2.17]}  24. c4 {[%eval -2.72]}  
+Bc8 {[%eval -1.95]}  25. cxd5 {[%eval -9.11]}  Bxh3 {[%eval -16.12]}  26. gxh3 {[%eval #-9]}  
+Rxh3+ {[%eval -13.13]}  27. Kxh3 {[%eval -12.13]}  Nf1 {[%eval -13.69]}  28. Rg2 
+{[%eval -15.48]}  Nhg3 {[%eval -25.52]}  0-1
+
+[ContentType "Model Game"]
+[Event "BL2-West 9192"]
+[Round "6.2"]
+[ECO "E32"]
+[LichessId "VDUr7lmK"]
+[Guid "R8bf2a96ec4f743768ef68ea68c961ca9"]
+[Date "1992.??.??"]
+[White "Lingnau, Carsten"]
+[Black "Ostermeyer, Peter"]
+[WhiteElo "2365"]
+[BlackElo "2405"]
+[Annotator ""]
+[Result "0-1"]
+
+
+ {[%eval +0,33]} 1. d4 {[%eval 0.0]}  Nf6 {[%eval 0.19]}  2. c4 {[%eval 0.14]}  
+e6 {[%eval 0.39]}  3. Nc3 {[%eval 0.0]}  Bb4 {[%eval 0.25]}  4. Qc2 {[%eval 0.29]}  
+Bxc3+ {[%eval 0.64]}  5. Qxc3 {[%eval 0.44]}  Ne4 {[%eval 0.64]}  6. Qc2 {[%eval 0.46]}  
+f5 {[%eval 0.75]}  7. Nf3 {[%eval 0.64]}  b6 {[%eval 0.79]}  8. g3 {[%eval 
+0.66]}  Bb7 {[%eval 0.85]}  9. Bg2 {[%eval 0.69]}  O-O {[%eval 0.62]}  10. O-O {[%eval 0.62]}  
+Nc6 {[%eval 0.56]}  11. a3 {[%eval 0.63]}  d5 {[%eval 1.14]}  12. b4 {[%eval 1.12]}  
+dxc4 {[%eval 1.26]}  13. Qxc4 {[%eval 1.42]}  Qd5 {[%eval 1.33]}  14. Qxd5 {[%eval 0.95]}  
+exd5 {[%eval 0.65]}  15. Bf4 {[%eval 0.86]}  Ba6 {[%eval 0.78]}  16. Rfc1 {[%eval 0.74]}  
+Bc4 {[%eval 0.56]}  17. e3 {[%eval 0.74]}  b5 {[%eval 0.89]}  18. Bxc7 {[%eval 0.62]}  
+Rfc8 {[%eval 0.62]}  19. Ba5 {[%eval 0.61]}  Rab8 {[%eval 0.83]}  20. Ne5 {[%eval 0.81]}  
+Nxe5 {[%eval 0.68]}  21. dxe5 {[%eval 0.83]}  Kf7 {[%eval 0.61]}  22. a4 {[%eval 0.22]}  
+bxa4 {[%eval 0.47]}  23. Rxa4 {[%eval 0.19]}  Bb5 {[%eval 0.44]}  24. Raa1 {[%eval 0.49]}  
+Nc3 {[%eval 0.31]}  25. Bf1 {[%eval 0.28]}  Ke6 {[%eval 0.61]}  26. Rc2 {[%eval 0.17]}  
+Bxf1 {[%eval 0.12]}  27. Kxf1 {[%eval 0.15]}  Rc4 {[%eval 0.34]}  28. Rac1 {[%eval 0.0]}  
+Rbc8 {[%eval 0.0]}  29. f4 {[%eval 0.18]}  Nd1 {[%eval 0.0]}  30. Rxc4 {[%eval 0.0]}  
+Nxe3+ {[%eval 0.0]}  31. Ke2 {[%eval 0.0]}  Nxc4 {[%eval 0.04]}  32. Ra1 {[%eval 0.0]}  
+d4 {[%eval 0.0]}  33. b5 {[%eval -0.99]}  Kd5 {[%eval -0.11]}  34. Be1 {[%eval -0.64]}  
+Ke4 {[%eval -0.79]}  35. Rxa7 {[%eval -0.71]}  d3+ {[%eval -0.98]}  36. Kf2 {[%eval -0.95]}  
+d2 {[%eval -0.8]}  37. Bxd2 {[%eval -0.63]}  Nxd2 {[%eval -0.6]}  38. b6 {[%eval -2.15]}  
+Rc2 {[%eval -1.86]}  39. Rc7 {[%eval -5.05]}  Nc4+ {[%eval -4.86]}  40. Ke1 {[%eval -8.21]}  
+Ke3 {[%eval -2.5]}  41. Kd1 {[%eval -2.37]}  Rd2+ {[%eval -1.85]}  42. Kc1 {[%eval -2.51]}  
+Nxb6 {[%eval -2.48]}  43. Rxg7 {[%eval -3.09]}  Rxh2 {[%eval -3.27]}  44. e6 {[%eval -3.47]}  
+Kf3 {[%eval -3.16]}  45. Rg5 {[%eval -4.75]}  Nc4 {[%eval -4.9]}  46. g4 {[%eval -6.5]}  
+fxg4 {[%eval -6.01]}  47. e7 {[%eval -8.18]}  Re2 {[%eval -7.25]}  48. Re5 {[%eval #-10]}  
+Nxe5 {[%eval #-9]}  0-1
+
+[ContentType "Model Game"]
+[Event "41st ch-BAN 2015"]
+[Round "9.2"]
+[ECO "E30"]
+[LichessId "SRZDvG0W"]
+[Guid "R5ac6bb647c0d4535ab0e5c8381fbf3dc"]
+[Date "2015.11.12"]
+[White "Mohammad Fahad, Rahman"]
+[Black "Murshed, N."]
+[WhiteElo "2207"]
+[BlackElo "2443"]
+[Annotator ""]
+[Result "0-1"]
+
+
+ {[%eval +0,34]} 1. c4 {[%eval 0.0]}  e6 {[%eval 0.14]}  2. d4 {[%eval 0.11]}  
+Nf6 {[%eval 0.18]}  3. Nc3 {[%eval 0.14]}  Bb4 {[%eval 0.21]}  4. Bg5 {[%eval -0.09]}  
+c5 {[%eval -0.1]}  5. e3 {[%eval -0.5]}  Qa5 {[%eval -0.33]}  6. Qc2 {[%eval -1.64]}  
+Ne4 {[%eval -1.51]}  7. Qxe4 {[%eval -1.57]}  Bxc3+ {[%eval -1.39]}  8. Kd1 {[%eval -1.6]}  
+Bxb2 {[%eval -1.53]}  9. Rb1 {[%eval -1.38]}  Bc3 {[%eval -1.28]}  10. d5 {[%eval -1.82]}  
+Qxa2 {[%eval -1.75]}  11. Nf3 {[%eval -2.22]}  Na6 {[%eval -2.14]}  12. Rc1 {[%eval -2.41]}  
+Bb2 {[%eval -2.17]}  13. Rb1 {[%eval -6.31]}  Nb4 {[%eval -6.01]}  14. Bd3 {[%eval -8.02]}  
+f5 {[%eval -7.55]}  0-1
+
+[ContentType "Model Game"]
+[Event "Carlsen Tour Final"]
+[Round "1.13"]
+[ECO "E21"]
+[LichessId "6IY5B4Al"]
+[Guid "Rc55484754c444018822651556c326c55"]
+[Date "2020.08.09"]
+[White "Dubov, Daniil"]
+[Black "Nakamura, Hikaru"]
+[WhiteElo "2699"]
+[BlackElo "2736"]
+[Annotator ""]
+[Result "0-1"]
+
+
+ {[%eval +0,35]} 1. d4 {[%eval 0.0]}  Nf6 {[%eval 0.32]}  2. c4 {[%eval 0.24]}  
+e6 {[%eval 0.28]}  3. Nc3 {[%eval 0.05]}  Bb4 {[%eval 0.25]}  4. Nf3 {[%eval 0.14]}  
+O-O {[%eval 0.21]}  5. Bg5 {[%eval 0.0]}  c5 {[%eval -0.06]}  6. d5 {[%eval 
+0.0]}  d6 {[%eval 0.09]}  7. e3 {[%eval -0.67]}  exd5 {[%eval -0.31]}  8. cxd5 {[%eval -0.39]}  
+Nbd7 {[%eval -0.5]}  9. Bd3 {[%eval -0.09]}  h6 {[%eval -0.08]}  10. Bh4 {[%eval -0.48]}  
+Qa5 {[%eval -0.21]}  11. O-O {[%eval -0.18]}  Bxc3 {[%eval -0.07]}  12. bxc3 {[%eval -0.01]}  
+Qxc3 {[%eval 0.38]}  13. e4 {[%eval 0.13]}  Re8 {[%eval 0.32]}  14. Re1 {[%eval 0.46]}  
+b5 {[%eval 0.55]}  15. Rc1 {[%eval 0.15]}  Qa3 {[%eval 0.23]}  16. Bb1 {[%eval 0.12]}  
+Ng4 {[%eval 0.0]}  17. Nd2 {[%eval -0.5]}  Nb6 {[%eval 1.48]}  18. h3 {[%eval 0.08]}  
+Ne5 {[%eval 0.18]}  19. Qh5 {[%eval -0.03]}  Nbc4 {[%eval -0.61]}  20. Nb3 {[%eval -0.3]}  
+a5 {[%eval -0.12]}  21. Rc3 {[%eval -4.21]}  Qb4 {[%eval -3.92]}  22. Rec1 {[%eval -4.75]}  
+Ng6 {[%eval -4.05]}  23. Bf6 {[%eval -3.23]}  a4 {[%eval -3.96]}  24. Rg3 {[%eval -5.44]}  
+Re5 {[%eval -4.4]}  25. Bxe5 {[%eval -4.55]}  Ncxe5 {[%eval -4.57]}  26. Nxc5 {[%eval -4.46]}  
+dxc5 {[%eval -4.41]}  27. Rf1 {[%eval -4.47]}  Qd4 {[%eval -4.46]}  28. Kh2 {[%eval -5.39]}  
+Ra6 {[%eval -4.83]}  29. f4 {[%eval -5.06]}  Rf6 {[%eval -4.78]}  30. f5 {[%eval -4.68]}  
+Nc4 {[%eval -4.43]}  31. Rd1 {[%eval -5.1]}  Qe5 {[%eval -5.44]}  32. Qf3 {[%eval -5.41]}  
+Qd6 {[%eval -5.21]}  33. Qc3 {[%eval -6.17]}  Nge5 {[%eval -6.02]}  34. Kh1 {[%eval -5.56]}  
+b4 {[%eval -6.1]}  35. Qe1 {[%eval -6.03]}  a3 {[%eval -6.25]}  36. Bc2 {[%eval -6.36]}  
+Nb2 {[%eval -6.36]}  37. Rc1 {[%eval -6.11]}  c4 {[%eval -6.86]}  38. Qe3 {[%eval -6.83]}  
+Bd7 {[%eval -6.45]}  39. Qd4 {[%eval -7.07]}  Bb5 {[%eval -6.74]}  40. Re3 {[%eval -8.01]}  
+Qb6 {[%eval -7.56]}  41. Qxe5 {[%eval -8.13]}  Qxe3 {[%eval -8.81]}  42. Rg1 {[%eval -8.73]}  
+b3 {[%eval -8.56]}  43. Bb1 {[%eval -8.93]}  Qb6 {[%eval -6.58]}  44. Qg3 {[%eval -7.97]}  
+bxa2 {[%eval -7.82]}  45. Bxa2 {[%eval -7.55]}  Nd3 {[%eval -7.62]}  46. Rb1 {[%eval -8.08]}  
+Nf2+ {[%eval -8.18]}  47. Kh2 {[%eval -8.14]}  Nxe4 {[%eval -8.1]}  0-1
+
+
+
