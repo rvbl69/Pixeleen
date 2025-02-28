@@ -4,7 +4,7 @@ Description: Games from tournaments and matches.
     Shelf:Openingen
     Description: Wat wordt vaak tegen mij gespeeld?
    
-      Book:Met zwart
+      Book:Met zwart blabla
       Description: Gebaseerd op partijen
       File:Werkboeken/jobava london.pgn
 
