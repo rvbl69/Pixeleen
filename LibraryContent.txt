@@ -31,7 +31,7 @@ Description:
 	
 		Book:Checkmate patterns
      		Description:
-      		File:Werkboeken/Checkmate patterns.pgn
+      		File:Werkboeken/Checkmate Patterns.pgn
 
 		Book:Endgames you must know
      		Description:
