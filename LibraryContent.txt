@@ -1,12 +1,12 @@
-Bookcase:Tournamentss
+Bookcase:Werkoeken
 Description: Games from tournaments and matches.
 
     Shelf:Openingen
     Description: Wat wordt vaak tegen mij gespeeld?
    
-      Book:Zwart
+      Book:Met zwart
       Description: Gebaseerd op partijen
-      test.txt
+      File: Werkboeken/my openings.pgn
 
       Book:World Rapid Championship 2023 (Men)
       Description: World Rapid Championship (Men), Samarkand, December 2023.
