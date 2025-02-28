@@ -8,11 +8,15 @@ Description:
     Shelf:Studie
     Description: 
     
-	  Book:Mijn eigen partrijen
-      Description: Online of IRL
+	  Book:Mijn eigen partrijen - zwart
+      Description: Antwoord op wat ik online of IRL antwoord
       File:Werkboeken/My openings.pgn
 
 
-	Book:Jobava London
-      Description: Eigen tree
+	Book:Pixeleen's Jobava London
+      Description: Mijn eigen tree met video's Hanging Pawns
       File:Werkboeken/Pixeleen's JBL course.pgn
+
+	Book:Jobava London 
+      Description: Tree op basis van wit wint, ELO > 2000 (743 partijen)
+      File:Werkboeken/Jobava London.pgn
